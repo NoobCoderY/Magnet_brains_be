@@ -19,7 +19,7 @@ const app = express();
 
  app.use(cors({
     credentials: true,
-    origin:["https://magnet-brains-fe.vercel.app"],
+    origin:["*"],
   }))
   app.use(express.json());
   app.use(express.urlencoded({
