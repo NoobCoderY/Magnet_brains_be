@@ -1,7 +1,7 @@
 # FullStackTaskBoardBackend
 
 ## Deployed Links
-- Frontend: [https://full-stack-task-board-frontend.vercel.app/](https://full-stack-task-board-frontend.vercel.app/)
+- Frontend: [https://full-stack-task-board-frontend.vercel.app/](https://magnet-brains-eofdlb9x0-noobcoderys-projects.vercel.app/)
 - Backend: [https://taskdashboard2.onrender.com](https://taskdashboard2.onrender.com)
 
 ## Getting Started
