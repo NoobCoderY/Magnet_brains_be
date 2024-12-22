@@ -19,7 +19,7 @@ const app = express();
 
  app.use(cors({
     credentials: true,
-    origin:["http://localhost:3000","https://full-stack-task-board-frontend.vercel.app"],
+    origin:["http://localhost:3000","https://magnet-brains-fe.vercel.app/"],
   }))
   app.use(express.json());
   app.use(express.urlencoded({
